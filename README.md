@@ -30,5 +30,8 @@
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
 ## 📊 Stats
-[![Metrics](https://github.com/iamarch/iamarch/raw/main/github-metrics.svg)](https://github.com/iamarch)
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/iamarch/iamarch/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/iamarch/iamarch/blob/main/github-metrics.svg)
 
