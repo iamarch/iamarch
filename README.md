@@ -31,15 +31,5 @@
 
 ## 📊 Stats
 
-<table>
-  <td align="center">
-    <details open><summary>Compact display</summary>
-      <img src="https://github.com/iamarch/iamarch/blob/master/metrics.plugin.achievements.compact.svg">
-    </details>
-    <details open><summary>Detailed display</summary>
-      <img src="https://github.com/iamarch/iamarch/blob/master/metrics.plugin.achievements.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
+<p align="center"> <a href="https://github.com/iamarch"><img src="https://github-profile-trophy.vercel.app/?username=iamarch&theme=radical&row=1&no-frame=true&no-bg=true" alt="iamarch" /></a> </p>
 
