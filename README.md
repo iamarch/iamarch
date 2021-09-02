@@ -28,10 +28,8 @@
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
+## 📊 Stats
 <p>
- 
-  ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=iamarch)
-   
   <a href="https://github.com/iamarch/handle-path-oz">
     <img width="55%" align="right" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch&show_icons=true&hide_border=true" />
   </a> 
