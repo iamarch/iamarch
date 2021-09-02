@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Py_Java**
 - 👯 I’m looking to collaborate on **GitHub**
 - 🤔 I’m looking for help **For me**
-- 💬 Ask me about anything, **I am Like to help**
+- 💬 Ask me about **Anything,I am Like to help**
 - 📫 How to reach me: **On_Telegram** - [**@iamarch**](https://telegram.me/iamarch)
 - ⚡ Fun fact:  **I'm Still Student**
 -->
