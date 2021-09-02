@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [ARCH](https://github.com/iamarch)
 
-
+<p>
 - 🔭 I’m currently working on **GitHub**
 - 🌱 I’m currently learning **Py_Java**
 - 👯 I’m looking to collaborate on **GitHub**
@@ -8,6 +8,9 @@
 - 💬 Ask me about **Anything,I am Like to help**
 - 📫 How to reach me: **On_Telegram** - [**@iamarch**](https://telegram.me/iamarch)
 - ⚡ Fun fact:  **I'm Still Student**
+  
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</p>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 ### 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
