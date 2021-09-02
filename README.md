@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [ARCH](https://github.com/iamarch)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
   
 - 🔭 I’m currently working on **GitHub**
 - 🌱 I’m currently learning **Py_Java**
@@ -32,7 +32,7 @@
 ### 📊 Stats
 <p>
   <a href="https://github.com/iamarch/handle-path-oz">
-    <img width="55%" align="Left" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch&show_icons=true&hide_border=true" />
+    <img width="50%" align="Left" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch&show_icons=true&hide_border=true" />
   </a></p>
 <p align="Left"> <a href="https://github.com/iamarch"><img src="https://github-profile-trophy.vercel.app/?username=iamarch&theme=radical&row=1&no-frame=true&no-bg=true" alt="iamarch" /></a> </p>
 
