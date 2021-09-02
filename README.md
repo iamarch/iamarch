@@ -8,7 +8,7 @@
 - 💬 Ask me about **Anything,I am Like to help**
 - 📫 How to reach me: **On_Telegram** - [**@iamarch**](https://telegram.me/iamarch)
 - ⚡ Fun fact:  **I'm Still Student**
-
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 ### 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://telegram.me/iamarch" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="iamarch" height="30" width="30" /></a>
@@ -28,8 +28,5 @@
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
-### 📊 Stats
-  <a href="https://github.com/iamarch/handle-path-oz">
-    <img width="55%" align="right" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch&show_icons=true&hide_border=true" />
-  </a> 
+
 
