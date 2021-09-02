@@ -29,4 +29,6 @@
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
 ## 📊 Stats
-[![Metrics](https://github.com/iamarch/iamarch/raw/main/github-metrics.svg)](https://github.com/iamarch)
+ <a href="https://github.com/iamarch/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch=compact&show_icons=true&theme=radical&cache_seconds=1800" />
+  </a>
