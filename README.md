@@ -28,3 +28,5 @@
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
+## 📊 Stats
+[![Metrics](https://github.com/iamarch/iamarch/raw/main/github-metrics.svg)](https://github.com/iamarch)
