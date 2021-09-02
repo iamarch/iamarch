@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Py_Java**
 - 👯 I’m looking to collaborate on **GitHub**
 - 🤔 I’m looking for help **For me**
-- 💬 Ask me about **Anything,I am Like to help**
+- 💬 Ask me about **Anything, I am Like to help**
 - 📫 How to reach me: **On_Telegram** - [**@iamarch**](https://telegram.me/iamarch)
 - ⚡ Fun fact:  **I'm Still Student**
   
@@ -29,5 +29,6 @@
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
-
+## 📊 Stats
+[![Metrics](https://github.com/iamarch/iamarch/raw/main/github-metrics.svg)](https://github.com/iamarch)
 
