@@ -30,5 +30,5 @@
 
 ## 📊 Stats
  <a href="https://github.com/iamarch/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch=compact&show_icons=true&theme=radical&cache_seconds=1800" />
+    <img width="55%" align="right" alt="iamarch's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch=compact&show_icons=true&theme=radical&cache_seconds=1800" />
   </a>
