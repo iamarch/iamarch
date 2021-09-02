@@ -34,5 +34,5 @@
   <a href="https://github.com/iamarch/handle-path-oz">
     <img width="55%" align="Left" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch&show_icons=true&hide_border=true" />
   </a></p>
-<p align="center"> <a href="https://github.com/iamarch"><img src="https://github-profile-trophy.vercel.app/?username=iamarch&theme=radical&row=1&no-frame=true&no-bg=true" alt="iamarch" /></a> </p>
+<p align="Left"> <a href="https://github.com/iamarch"><img src="https://github-profile-trophy.vercel.app/?username=iamarch&theme=radical&row=1&no-frame=true&no-bg=true" alt="iamarch" /></a> </p>
 
