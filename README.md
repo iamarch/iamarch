@@ -13,7 +13,8 @@
 ### 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://telegram.me/iamarch" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="iamarch" height="30" width="30" /></a>
-<a href="https://twitter.com/none"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="30px" height="30px">
+<a href="https://twitter.com/none" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="30px" height="30px"></a>
+
 ### 🛠️ Languages and tools
 <a href="https://www.arduino.cc"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
 <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
