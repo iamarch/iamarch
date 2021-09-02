@@ -31,5 +31,15 @@
 
 ## 📊 Stats
 
-![Metrics](https://github.com/iamarch/iamarch/blob/main/github-metrics.svg)
+<table>
+  <td align="center">
+    <details open><summary>Compact display</summary>
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.achievements.compact.svg">
+    </details>
+    <details open><summary>Detailed display</summary>
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.achievements.svg">
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</table>
 
