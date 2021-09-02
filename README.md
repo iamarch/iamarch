@@ -13,7 +13,7 @@
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://telegram.me/iamarch" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="iamarch" height="30" width="30" /></a>
 
-###🛠️ Languages and tools
+### 🛠️ Languages and tools
 <a href="https://www.arduino.cc"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
 <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
 <a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
