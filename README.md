@@ -34,10 +34,10 @@
 <table>
   <td align="center">
     <details open><summary>Compact display</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.achievements.compact.svg">
+      <img src="https://github.com/iamarch/iamarch/blob/master/metrics.plugin.achievements.compact.svg">
     </details>
     <details open><summary>Detailed display</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.achievements.svg">
+      <img src="https://github.com/iamarch/iamarch/blob/master/metrics.plugin.achievements.svg">
     </details>
     <img width="900" height="1" alt="">
   </td>
