@@ -32,3 +32,4 @@
   <a href="https://github.com/iamarch/handle-path-oz">
     <img width="55%" align="right" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch&show_icons=true&hide_border=true" />
   </a>
+</p>
