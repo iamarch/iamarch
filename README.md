@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [ARCH](https://github.com/iamarch)
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
-  
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
+
 - 🔭 I’m currently working on **GitHub**
 - 🌱 I’m currently learning **Py_Java**
 - 👯 I’m looking to collaborate on **GitHub**
@@ -13,7 +13,7 @@
 ### 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://telegram.me/iamarch" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="iamarch" height="30" width="30" /></a>
-<a href="https://twitter.com/none" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="30px" height="30px"></a>
+<a href="https://twitter.com/." target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="30px" height="30px"></a>
 
 ### 🛠️ Languages and tools
 <a href="https://www.arduino.cc"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
