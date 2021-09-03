@@ -1,13 +1,14 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [ARCH](https://github.com/iamarch)
 
-  
-- 🔭 I’m currently working on **GitHub**
-- 🌱 I’m currently learning **Py_Java**
-- 👯 I’m looking to collaborate on **GitHub**
-- 🤔 I’m looking for help **For me**
-- 💬 Ask me about **Anything, I am Like to help**
-- 📫 How to reach me: **On_Telegram** - [**@iamarch**](https://telegram.me/iamarch)
-- ⚡ Fun fact:  **I'm Still Student**
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
+
+- 🔭 I’m currently working on GitHub
+- 🌱 I’m currently learning Py_Java
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help For me
+- 💬 Ask me about Anything, I am Like to help
+- 📫 How to reach me: On_Telegram - [**@iamarch**](https://telegram.me/iamarch)
+- ⚡ Fun fact:  I'm Still Student
   
 ### 🔗 Connect with me
 <!-- png icons from https://iconscout.com/ -->
@@ -35,4 +36,3 @@
     <img width="50%" align="Left" alt="ARCH's github stats" src="https://github-readme-stats.vercel.app/api?username=iamarch&show_icons=true&hide_border=true" />
   </a></p>
 <p align="Left"> <a href="https://github.com/iamarch"><img src="https://github-profile-trophy.vercel.app/?username=iamarch&theme=radical&row=1&no-frame=true&no-bg=true" alt="iamarch" /></a> </p>
-
